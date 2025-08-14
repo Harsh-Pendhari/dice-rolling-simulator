@@ -54,7 +54,7 @@ DiceRollSimulator.py ---------# Main Program
 
 ## 📸 Demo Output
 
-![demo]([<img width="421" height="308" alt="Screenshot 2025-08-15 000133" src="https://github.com/user-attachments/assets/c9596528-001b-4ba1-ab94-d3b1aeaf20a7" />](https://raw.githubusercontent.com/Harsh-Pendhari/dice-rolling-simulator/d780e2f8a4561f8f54ab4857755d8532aede72b7/Screenshot%202025-08-15%20000133.png))
+![demo](https://raw.githubusercontent.com/Harsh-Pendhari/dice-rolling-simulator/d780e2f8a4561f8f54ab4857755d8532aede72b7/Screenshot%202025-08-15%20000133.png)
 
 ## 📄 License
 
